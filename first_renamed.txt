@@ -6,3 +6,5 @@ a code is changed
 DasfaS
 
 this is from master
+
+Added at bugfix
