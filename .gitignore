@@ -1,0 +1,39 @@
+# error.log
+
+
+################
+
+# # Ignore all log files
+
+# *.log
+
+
+#################
+
+
+# # ignore a folder everywhere
+
+# dir/
+
+
+##################
+
+
+# # ignore only outer dir folder
+# /dir/
+
+
+###################
+
+
+# # ignore dir folder only inside static folder
+# static/dir
+
+
+###################
+
+# db.accdb 
+
+###################### ###
+
+
